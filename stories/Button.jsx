@@ -21,7 +21,6 @@ export const Button = ({
       {...props}
     >
       {label}
-      {"bug"}
     </button>
   );
 };
