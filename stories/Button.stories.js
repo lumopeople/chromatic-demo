@@ -25,7 +25,7 @@ export const Primary = {
   parameters: {
     design: {
       type: 'figma',
-      url: 'https://www.figma.com/file/Sample-File',
+      url: 'https://www.figma.com/design/11yrIkXPE0hL9HQTBvPJqo/AVA-Design?node-id=1801-16015&m=dev',
     },
   },
   args: {
